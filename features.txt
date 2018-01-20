@@ -1,1 +1,8 @@
-
+features:
+text to speech
+voice input
+you can send sms through voice assistant
+it can play stone paper scissor :) :)
+it can search and tell you information from google
+it can tell you joke
+and some other works calculations,playing songs ...
