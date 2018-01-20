@@ -1,1 +1,2 @@
-
+first you have to create a sinchsms account for sending the sms
+then install all the required libraries
