@@ -171,19 +171,12 @@ def category(senten):
     if mathematician(senten) !=None:
      speech("solution is {}".format(mathematician(senten)))
     for each in senten:
-        if each == 'fuck' or each=='sex' or each== 'rape':
-            speech("are u a male or female!!!!")
-            sex1=str(input())
-            if sex1=="male":
-                speech("iam a boy u cant sex with me ,if u want to do you are a gay:)")
-            if sex1=="female":
-                speech("girls are always welcomed:)")
         if each =="your" or each=="you" or each=='u' or each =="ur":
             aboutrex(senten)
         if each =="hi":
             speech("hi,nice to see u:)")
         if each=="who":
-            speech("Iam a bot who think like karthi")
+            speech("Iam a bot who think like <your name>")
         if each=="message":
             for each1 in senten:
                 if each1=='send':
