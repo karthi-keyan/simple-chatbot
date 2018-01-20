@@ -1,3 +1,4 @@
+it constructed using simple if-else decidions
 first you have to create a sinchsms account for sending the sms
 then install all the required libraries
 here iam taking jokes randomly from the jokes.txt that you can change or use it your own way 
